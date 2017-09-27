@@ -1,0 +1,53 @@
+body, html{
+  background-color: Beige;
+  /*height: 100%;*/
+}
+
+.mainBody {
+
+  background-color: white;
+    height: 900px;
+  
+}
+
+h1, p, #hed1, #hed2 {
+  color: BurlyWood;
+}
+
+.spacing {
+margin-top: 50px;
+}
+
+.centerContent {
+  display: flex;
+  display: -webkit-flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+
+.blockquote{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 500px;
+  color: BurlyWood;
+  display: none;
+}
+
+#slideQuote {
+ min-height: 35px; 
+}
+
+#clickMe {
+  margin-right: 20px;
+}
+
+#tweet {
+  margin-left: 20px;
+}
+
+#attribute {
+  text-align: center;
+  margin-top: 50px;
+  
+}
+
